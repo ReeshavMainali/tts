@@ -1,6 +1,0 @@
-{M3} Arjun hesitates, then answers.
-{M2} Hello? Who is this?
-{F4} You don't know me. But I know what you did three years ago in Pokhara.
-{M3} Arjun stands up slowly, knocking over his tea. The stall owner glares at him. He mouths an apology and steps into the alley.
-{M2} I don't know what you're talking about.
-{F4} The bridge, Arjun. You were there.
